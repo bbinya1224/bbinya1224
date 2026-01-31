@@ -7,9 +7,11 @@
 ---
 
 ### 🛠 Tech Stack
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,next,vue,tailwind,supabase,sentry,figma" />
+    <img height="36px" src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript" /> <br />
+    <img height="36px" src="https://skillicons.dev/icons?i=react,next,vue,tailwind,vite,pinia" /> <br />
+    <img height="36px" src="https://skillicons.dev/icons?i=tailwind,supabase,sentry,figma" />
   </a>
 </p>
 
@@ -28,11 +30,16 @@
 
 ---
 
-### 📊 Stats & Activity
+### 📊 Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bbinya1224&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Subin's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bbinya1224&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
+  
 </p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bbinya1224&theme=radical&utcOffset=9" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bbinya1224&theme=radical" alt="Top Languages" height="200" />
+</p>
+
 
 ---
 
